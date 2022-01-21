@@ -1,2 +1,1 @@
-# catinder1
-A review version for mobile
+TinDog Starting Files
